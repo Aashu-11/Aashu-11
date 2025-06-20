@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 Currently pursuing my degree in **Artificial Intelligence & Machine Learning**  
+🎓 Currently pursuing my degree in **Computer Science & Engineering Sardar Patel Institute of Technology Mumbai**  
 💻 Passionate about building **stunning full-stack applications**  
 🧠 Exploring the **frontiers of AI/ML** and **deep learning**  
 🌟 Mission: **"Code. Create. Conquer."**  
@@ -35,10 +35,10 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
 
 ### AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,python,anaconda&theme=dark" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=dark" />
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayush110906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aashu-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
@@ -108,9 +108,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashu-11/Aashu-11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashu-11/Aashu-11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aashu-11/Aashu-11/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 📊 Weekly Development Breakdown
@@ -132,7 +132,7 @@ C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/aayush110906">
+<a href="https://github.com/Aashu-11">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF"/>
 </a>
 <a href="https://leetcode.com/u/aaayyyyuuusshh/">
@@ -149,7 +149,7 @@ C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aayush110906&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Aashu-11&color=00D9FF&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
