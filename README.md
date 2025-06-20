@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 🚀 Hey there! I'm Aayush Kolte
@@ -26,17 +28,17 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript&theme=dark" />
 
 ### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
 
 ### AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda&theme=dark" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase&theme=dark" />
 
 </div>
 
@@ -48,10 +50,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush110906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush110906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush110906&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush110906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush110906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush110906&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
 
@@ -85,7 +91,9 @@
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.me/aashu11)](https://holopin.io/@aashu11)
+[![@aashu11's Holopin board](https://holopin.me/aashu11)](https://holopin.io/@aashu11)
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=aayush110906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
@@ -95,42 +103,24 @@
 
 ---
 
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-
-### 🚀 AI/ML Projects
-<a href="https://github.com/aayush110906">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush110906&repo=machine-learning-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
-</a>
-
-### 💻 Full Stack Applications
-<a href="https://github.com/aayush110906">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush110906&repo=fullstack-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
-
----
-
 ## 📈 Contribution Graph & Activity
 
 <div align="center">
 
-<img src="https://github.com/aayush110906/aayush110906/blob/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aayush110906/aayush110906/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░   55.20%
 Python       6 hrs 15 mins   ██████▓░░░░░░░░░░░░░░   25.30%
 Java         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   15.10%
 C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░    4.40%
 ```
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -183,5 +173,3 @@ C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░
 
 </div>
 
-
-[![An image of @aashu11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashu11)](https://holopin.io/@aashu11)
