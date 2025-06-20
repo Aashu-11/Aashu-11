@@ -4,9 +4,25 @@
 
 # 🚀 Hey there! I'm Aayush Kolte
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time;Welcome+to+My+Digital+Universe!" alt="Typing Animation" />
+<!-- Typing animation (top, centered) -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time;Welcome+to+My+Digital+Universe!" 
+    alt="Typing Animation"
+  />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<!-- Spacer for visual clarity -->
+<br/>
+
+<!-- GIF centered below the typing animation -->
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    width="500"
+    alt="Animated Developer GIF"
+  />
+</p>
 
 ---
 
@@ -113,20 +129,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aashu-11/Aashu-11/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📊 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░   55.20%
-Python       6 hrs 15 mins   ██████▓░░░░░░░░░░░░░░   25.30%
-Java         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   15.10%
-C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░    4.40%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284075-5381a854-92dd-4c48-9d78-738ac1b8aa31.gif" width="900">
-
----
 
 ## 🌐 Connect With Me
 
@@ -141,7 +143,7 @@ C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░
 <a href="https://codeforces.com/profile/aayush_110906">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=000000"/>
 </a>
-<a href="https://linkedin.com/in/aayush-kolte">
+<a href="https://www.linkedin.com/in/aayushkolte/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000"/>
 </a>
 
