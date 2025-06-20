@@ -1,1 +1,187 @@
+<div align="center">
+
+# 🚀 Hey there! I'm Aayush Kolte
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time;Welcome+to+My+Digital+Universe!" alt="Typing Animation" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+---
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 Currently pursuing my degree in **Artificial Intelligence & Machine Learning**  
+💻 Passionate about building **stunning full-stack applications**  
+🧠 Exploring the **frontiers of AI/ML** and **deep learning**  
+🌟 Mission: **"Code. Create. Conquer."**  
+🔥 Always learning, always evolving  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+
+### AI/ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+
+---
+
+## 📊 GitHub Analytics & Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush110906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush110906&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush110906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush110906&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+---
+
+## 🏆 Competitive Programming Journey
+
+<div align="center">
+
+### 🔵 Codeforces Profile
+<a href="https://codeforces.com/profile/aayush_110906">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aayush_110906&theme=dark&disable_animations=false&show_icons=true&force_username=true" />
+</a>
+
+### 🟠 LeetCode Statistics
+<a href="https://leetcode.com/u/aaayyyyuuusshh/">
+<img src="https://leetcard.jacoblin.cool/aaayyyyuuusshh?theme=dark&font=source_code_pro&ext=activity" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-a8c5-d3b319b3d4c5.gif" width="900">
+
+---
+
+## 🎖️ Achievements & Badges
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/aashu11)](https://holopin.io/@aashu11)
+
+<img src="https://github-profile-trophy.vercel.app/?username=aayush110906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+---
+
+## 🌟 Featured Projects & Contributions
+
+<div align="center">
+
+### 🚀 AI/ML Projects
+<a href="https://github.com/aayush110906">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush110906&repo=machine-learning-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+</a>
+
+### 💻 Full Stack Applications
+<a href="https://github.com/aayush110906">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush110906&repo=fullstack-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+---
+
+## 📈 Contribution Graph & Activity
+
+<div align="center">
+
+<img src="https://github.com/aayush110906/aayush110906/blob/output/github-contribution-grid-snake-dark.svg" />
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░   55.20%
+Python       6 hrs 15 mins   ██████▓░░░░░░░░░░░░░░   25.30%
+Java         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   15.10%
+C++          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░    4.40%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284075-5381a854-92dd-4c48-9d78-738ac1b8aa31.gif" width="900">
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/aayush110906">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF"/>
+</a>
+<a href="https://leetcode.com/u/aaayyyyuuusshh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=000000"/>
+</a>
+<a href="https://codeforces.com/profile/aayush_110906">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=000000"/>
+</a>
+<a href="https://linkedin.com/in/aayush-kolte">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aayush110906&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="900">
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+### ⭐ *"Building the future, one commit at a time"* ⭐
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+open+to+collaborate!" alt="Footer Animation" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+
 [![An image of @aashu11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashu11)](https://holopin.io/@aashu11)
